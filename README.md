@@ -21,10 +21,10 @@ This project aims to assist users, both industry players and consumers, in recog
 - **CNN** : Using CNN machine learning model with MobileNet V3 architecture to process and recognize banana images.
 - **Waterfall Method** : The software development methodology used in this project.
 - **Android Studio** : The main tool in Android-based application development.
-- Kotlin** : The language used in the creation of the application
+- **Kotlin** : The language used in the creation of the application
 
 ## Contact
-If you have any questions or suggestions, please contact:
+If you have any questions or suggestions, please contact :
 
 **Name** : Muhammad Hykal Nurhakim  
 **Email** : [hykalhakim312@gmail.com](mailto:hykalhakim312@gmail.com)
